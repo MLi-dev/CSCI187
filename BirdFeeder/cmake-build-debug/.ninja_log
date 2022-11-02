@@ -1,0 +1,9 @@
+# ninja log v5
+1	302	1666493174239564539	CMakeFiles/BirdFeeder.dir/FeedingDoor.cpp.o	c7e04074d0f2ed15
+1	303	1666493174239770954	CMakeFiles/BirdFeeder.dir/Sensor.cpp.o	6fab8caa387aeef0
+0	667	1666493541187744526	CMakeFiles/BirdFeeder.dir/main.cpp.o	a938e99cf09c08ea
+1	680	1666493509318379357	CMakeFiles/BirdFeeder.dir/BirdFeeder.cpp.o	6dbb9cadb52101c4
+667	757	1666493541279910301	BirdFeeder	11f9b50a13f607ca
+2	656	1666493801996895878	CMakeFiles/BirdFeeder.dir/RemoteControl.cpp.o	35b3daa6a8a25d8b
+1	659	1666493802001294674	CMakeFiles/BirdFeeder.dir/main.cpp.o	a938e99cf09c08ea
+659	755	1666493802097889329	BirdFeeder	8ea4aa8ab22309e9
